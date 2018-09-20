@@ -9,10 +9,10 @@
 
 <h4 align="center">Web browser extension that let's you dictate math formulas by converting spoken math into latex</h4>
 
-<h5 align="center">It's back end is based on <a href="https://github.com/ArVID220u/latexdictation" target="_blank">Latex Dictation</a>, a project built by me, @ArVID220u and @sualehasif996 for HackMIT 2018</h5>
+<h5 align="center">It's back end is based on <a href="https://github.com/ArVID220u/latexdictation" target="_blank">Latex Dictation</a>, a project built by <a href="https://github.com/ArVID220u">@ArVID220u</a>, <a href="https://github.com/corollari">@corollari</a> and <a href="https://github.com/sualehasif996">@sualehasif996</a> for HackMIT 2018</h5>
 
 <p align="center">
-  <a href="#install">Install</a> •
+  <a href="#install">Install</a> •Change author order to alphabetical and add links
   <a href="#build">Build</a> •
   <a href="#credits">Credits</a> •
   <a href="#to-do">TO-DO</a> •
